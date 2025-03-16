@@ -33,5 +33,5 @@ If the promise is rejected then catch() method gets executed.
 <ul>
 <li>then(result)</li>
 <li>catch(error)</li>
-
+</ul>
 <p>Asynchronous JavaScript Coding can be done with the help of promises. </p>
